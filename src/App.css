@@ -1,0 +1,133 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.underline-top
+{
+  border-top: 2px solid #ffce99;
+  
+}
+
+.my-margin-top10 { margin-top: 10px; }
+.my-margin-top15 { margin-top: 15px; }
+
+.my-margin-top20 { margin-top: 20px; }
+.my-margin-top30 { margin-top: 30px; }
+.my-margin-top40 { margin-top: 40px; }
+.my-margin-top50 { margin-top: 50px; }
+.my-margin-top60 { margin-top: 60px; }
+.my-margin-top70 { margin-top: 70px; }
+.my-margin-top80 { margin-top: 80px; }
+.my-margin-top90 { margin-top: 90px; }
+.my-margin-top100 { margin-top: 100px; }
+.my-margin-top110 { margin-top: 110px; }
+.my-margin-top120 { margin-top: 120px; }
+.my-margin-top130 { margin-top: 130px; }
+.my-margin-top140 { margin-top: 140px; }
+.my-margin-top150 { margin-top: 150px; }
+.my-margin-top200 { margin-top: 200px; }
+
+.my-margin-top300 { margin-top: 300px; }
+.my-margin-top800 { margin-top: 800px; }
+
+/*    LEFT    */
+.my-margin-left10 { margin-left: 10px; }
+.my-margin-left20 { margin-left: 20px; }
+.my-margin-left30 { margin-left: 30px; }
+.my-margin-left40 { margin-left: 40px; }
+.my-margin-left46 { margin-left: 46px; }
+
+.my-margin-left50 { margin-left: 50px; }
+.my-margin-left60 { margin-left: 60px; }
+.my-margin-left70 { margin-left: 70px; }
+.my-margin-left80 { margin-left: 80px; }
+.my-margin-left90 { margin-left: 90px; }
+.my-margin-left100 { margin-left: 100px; }
+.my-margin-left110 { margin-left: 110px; }
+.my-margin-left120 { margin-left: 120px; }
+.my-margin-left130 { margin-left: 130px; }
+.my-margin-left140 { margin-left: 140px; }
+.my-margin-left150 { margin-left: 150px; }
+.my-margin-left160 { margin-left: 160px; }
+.my-margin-left170 { margin-left: 170px; }
+.my-margin-left180 { margin-left: 180px; }
+.my-margin-left190 { margin-left: 190px; }
+
+.my-margin-left400 { margin-left: 400px; }
+.my-margin-left600 { margin-left: 600px; }
+.my-margin-left610 { margin-left: 610px; }
+
+/*    RIGHT */
+.my-margin-right2 { margin-right: 2px; }
+
+.my-margin-right10 { margin-right: 10px; }
+.my-margin-right20 { margin-right: 20px; }
+.my-margin-right30 { margin-right: 30px; }
+.my-margin-right40 { margin-right: 40px; }
+.my-margin-right50 { margin-right: 50px; }
+.my-margin-right60 { margin-right: 60px; }
+.my-margin-right70 { margin-right: 70px; }
+.my-margin-right80 { margin-right: 80px; }
+.my-margin-right90 { margin-right: 90px; }
+.my-margin-right100 { margin-right: 100px; }
+.my-margin-right110 { margin-right: 110px; }
+.my-margin-right120 { margin-right: 120px; }
+.my-margin-right130 { margin-right: 130px; }
+.my-margin-right140 { margin-right: 140px; }
+.my-margin-right150 { margin-right: 150px; }
+.my-margin-right400 { margin-right: 400px; }
+.my-margin-right600 { margin-right: 600px; }
+.my-margin-right610 { margin-right: 610px; }
+
+/*    BOTTOM    */
+.my-margin-bottom-10 { margin-bottom: -10px; }
+
+.my-margin-bottom10 { margin-bottom: 10px; }
+.my-margin-bottom15 { margin-bottom: 15px; }
+
+.my-margin-bottom20 { margin-bottom: 20px; }
+.my-margin-bottom30 { margin-bottom: 30px; }
+.my-margin-bottom40 { margin-bottom: 40px; }
+.my-margin-bottom50 { margin-bottom: 50px; }
+.my-margin-bottom60 { margin-bottom: 60px; }
+.my-margin-bottom70 { margin-bottom: 70px; }
+.my-margin-bottom80 { margin-bottom: 80px; }
+.my-margin-bottom90 { margin-bottom: 90px; }
+.my-margin-bottom100 { margin-bottom:100px;}
+.font-kanit
+{
+  font-family: 'Kanit', sans-serif;
+  color: white;
+}
+.font-kanit-black
+{
+  margin-left: 2%;
+  font-family: 'Kanit', sans-serif;
+  color: #000;
+}
+a:link {
+    text-decoration: none;
+}
+a {
+    color: hotpink;
+}
